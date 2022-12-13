@@ -94,7 +94,7 @@ body {
     justify-content: end;
     align-items: center;
     column-gap: 30px;
-    /*отступ между колонками 40рх*/
+    /*отступ между колонками 30рх*/
     row-gap: 20px;
     /*отступ между рядами 20px*/
     flex-wrap: wrap;
@@ -184,7 +184,6 @@ body {
     position: relative;
     z-index: 9;
 }
-
 
 /* --- header --- */
 
@@ -341,7 +340,6 @@ body {
 .project-details__cover {
     max-width: 100%;
     margin-bottom: 40px;
-
     box-shadow: var(--box-shadow);
     border-radius: 10px;
 }
