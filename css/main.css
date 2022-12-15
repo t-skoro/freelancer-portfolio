@@ -324,7 +324,7 @@ body {
 /* --- project details --- */
 
 .project-details {
-    margin: 0 auto 70px;
+    margin: 0 auto;
     max-width: 865px;
 
     display: flex;
@@ -333,9 +333,6 @@ body {
     text-align: center;
 }
 
-.project-details:last-child {
-    margin: 0 auto;
-}
 
 .project-details__cover {
     max-width: 100%;
